@@ -1,0 +1,13 @@
+*{
+    font-family: 'Kanit', sans-serif;
+
+}
+input{
+    border-radius: 20px;
+    border: solid 1px gray;
+    height: 35px;
+  
+}
+.regInput{
+    padding: 10px;
+}
